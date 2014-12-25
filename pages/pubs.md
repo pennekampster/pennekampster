@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Publications
 description: Frank Pennekamp's publications
 ---
 
