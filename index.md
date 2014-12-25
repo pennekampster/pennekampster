@@ -1,11 +1,8 @@
 ---
 layout: page
-title: web presence
+title: Welcome!
 ---
 
-[Github Pages](http://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](http://git-scm.com).
+This is the web presence of Frank Pennekamp!
 
-Test page
+
