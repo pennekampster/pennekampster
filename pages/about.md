@@ -20,8 +20,8 @@ Please get in touch if you are interested in my research!
     <div class="row-fluid">
         <div class="span5">
             Frank Pennekamp<br/>
-            <a href="http://www.ieu.uzh.ch/index.html">Institute of Evolutionary Biology and Environmental Studies
-            &amp; Predictive Ecology group</a><br/>
+            <a href="http://www.ieu.uzh.ch/index.html">Institute of Evolutionary Biology and Environmental Studies</a><br/>
+            <a href="http://www.ieu.uzh.ch/research/ecology/extinction.html">Predictive Ecology group</a><br/>
             <a href="http://www.uzh.ch">University of Zurich</a><br/>
             Winterthurerstrasse 190<br/>
             CH-8057 Zurich<br/>
@@ -32,7 +32,7 @@ Please get in touch if you are interested in my research!
         </div>
 
         <div class="span2">
-        <a href="../assets/picsFrank_small.png>
+        <a href="../assets/pics/Frank_small.png>
             <img src="../assets/pics/Frank_small.png"
                   title="Frank Pennekamp" alt="Frank Pennekamp"/></a>
         </div>
