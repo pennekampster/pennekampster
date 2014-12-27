@@ -26,13 +26,12 @@ Please get in touch if you are interested in my research!
             Winterthurerstrasse 190<br/>
             CH-8057 Zurich<br/>
             Switzerland<br/><br/>
-
             Phone: +41 (0)44 635 47 64
             </div>
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/Frank_small.png>
+        <a href="../assets/pics/Frank_small.png">
             <img src="../assets/pics/Frank_small.png"
                   title="Frank Pennekamp" alt="Frank Pennekamp"/></a>
         </div>
