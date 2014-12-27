@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: talks
 description: Frank Pennekamp's talks
 ---
 
