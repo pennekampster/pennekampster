@@ -28,7 +28,6 @@ Please get in touch if you are interested in my research!
             Switzerland<br/><br/>
             Phone: +41 (0)44 635 47 64
             </div>
-        </div>
 
         <div class="span2">
         <a href="../assets/pics/Frank_small.png">
