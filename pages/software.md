@@ -19,7 +19,7 @@ Software to extract BEhaviour and Morphology from VIdeos
 #### <a name="MSSI"></a>[MSSI](https://github.com/pennekampster/MSSI)
 An R implementation of the multi-scale straightness index for analyzing movement trajectories
 
-#### <a name="Image analysis scripts"></a>[Image analysis scripts]
+#### <a name="Image analysis scripts"></a>[Image analysis scripts](https://github.com/pennekampster/MEE_digital_image_analysis)
 A collection of R, Python and ImageJ scripts to perform automated image analysis in 
 experimental laboratory systems. For details check the following publication:
 Pennekamp, Frank, and Nicolas Schtickzelle. (2013): “Implementing Image Analysis in 
