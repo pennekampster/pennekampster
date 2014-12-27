@@ -4,11 +4,19 @@ title: About
 description: Frank Pennekamp is a postdoctoral fellow in the Predictive ecology group, Institute of Evolutionary Biology and Environmental Sciences, University of Zurich
 ---
 
-I am an (evolutionary) ecologist interested in the influence of animal dispersal and movement 
-on population and community dynamics. 
+I am an (evolutionary) ecologist interested in population and community dynamics, with an emphasis
+on dispersal and movement ecology. Whereas my background is in conservation biology and field studies 
+(e.g. my Diploma thesis on dispersal and population dynamics of a endangered checkerspot butterfly in Portugal), 
+I have shifted during my PhD with Nicolas Schtickzelle at Université catholique de Louvain, Belgium 
+to use microbial model systems of ciliates to address fundamental questions in ecology and evolutionary biology.
 
-I use microbial model systems to address these questions using new image and video based
-techniques to quantify trait and abundance dynamics with high temporal resolution.
+I am now a postdoctoral researcher in the group of Owen Petchey, pursuing my research with the
+microbial  model system, but focussing more on the community level. Firstly, I study the
+effects and predictability of temperature increase on community structure and composition, and secondly the consequences 
+of intraspecific trait variation on community dynamics.
+
+Besides my scientific questions, I am actively developing digital image and video-based techniques to
+automatically quantify the individuals and their traits in the microbial model systems, we use in our lab.
 
 Please get in touch if you are interested in my research!
 
