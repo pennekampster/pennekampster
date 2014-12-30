@@ -7,7 +7,7 @@ description: Frank Pennekamp's software
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/pennekampster">github</a></li>
+            <li><a href="https://github.com/web_presence">github</a></li>
         </ul>
     </div>
 </div>
