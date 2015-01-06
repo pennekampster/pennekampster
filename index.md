@@ -22,30 +22,3 @@ automatically quantify individuals and their traits in the microbial model syste
 Please checkout the [software](http://pennekampster.github.io/pennekampster/pages/software.html) section to see current and past projects.
 
 Please get in touch if you are interested in my research and potential collaboration!
-
----
-
-<div class="container">
-<h4>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Frank Pennekamp<br/>
-            <a href="http://www.ieu.uzh.ch/index.html">Institute of Evolutionary Biology and Environmental Studies</a><br/>
-            <a href="http://www.ieu.uzh.ch/research/ecology/extinction.html">Predictive Ecology group</a><br/>
-            <a href="http://www.uzh.ch">University of Zurich</a><br/>
-            Winterthurerstrasse 190<br/>
-            CH-8057 Zurich<br/>
-            Switzerland<br/><br/>
-        
-            </div>
-
-        <div class="span2">
-        <a href="../assets/pics/Frank_small.png">
-            <img src="../assets/pics/Frank_small.png"
-                  title="Frank Pennekamp" alt="Frank Pennekamp"/></a>
-        </div>
-    </div>
-</div>
-
-
