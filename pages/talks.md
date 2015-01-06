@@ -7,11 +7,11 @@ description: Frank Pennekamp's talks
 ### <a name="talks"></a>Oral communications
 
 #### 2014
-*Scaling of interaction strength across a temperature gradient in competitive microbial communities*
+**Scaling of interaction strength across a temperature gradient in competitive microbial communities**     
 Joint BES & SFE annual meeting, Lille, France
 
-The movement ecology of _Tetrahymena thermophila_ ciliates - linking individual cell movement to dispersal, Microcosms & dispersal workshop
-CNRS Moulis, France 
+**The movement ecology of _Tetrahymena thermophila_ ciliates - linking individual cell movement to dispersal**    
+Microcosms & dispersal workshop, CNRS Moulis, France 
 
 #### 2013
 Variation in life history responses of _Tetrahymena thermophila_ under variable resource conditions", 11th INTECOL Congress, London, UK
