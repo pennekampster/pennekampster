@@ -39,8 +39,7 @@ Please get in touch if you are interested in my research and potential collabora
             Switzerland<br/><br/>
             
             <div id="hide_email">
-            Email: <code>frank.</code><b>I</b><code>pennekamp</code><b>don't</b><code>@</code><b>want</b><code>ieu.</code><b>spam!
-            </b><code>uzh.</code><b>So</b><code>ch</code><br/>
+            Email: <code>frank.</code><b>I</b><code>pennekamp</code><b>don't</b><code>@</code><b>want</b><code>ieu.</code><b>spam</b><code>uzh.</code><b>So</b><code>ch</code> <br/>
             </div>
             
             Phone: +41 (0)44 635 47 64
