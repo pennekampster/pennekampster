@@ -41,6 +41,7 @@ Please get in touch if you are interested in my research and potential collabora
             Email: <code>frank.</code><b>I</b><code>pennekamp</code><b>don't</b><code>@</code><b>want</b><code>ieu.</code><b>spam</b><code>uzh.</code><b>So</b><code>ch</code> <br/>
             Phone: +41 (0)44 635 47 64
             </div>
+            </div>
 
         <div class="span2">
         <a href="../assets/pics/Frank_small.png">
