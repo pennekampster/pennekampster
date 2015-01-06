@@ -13,6 +13,7 @@ description: Frank Pennekamp's publications
     </div>
 </div>
 
+For citations, please refer to my [google scholar](http://scholar.google.de/citations?user=yRx8FTsAAAAJ&hl=de) profile.    
 
 ### <a name="articles"></a>journal articles
 
