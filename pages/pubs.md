@@ -17,7 +17,14 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 ### <a name="articles"></a>journal articles
 
-#### in press & preprints
+#### in press & preprints   
+    
+Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, 
+Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, 
+Bernhard Schmid, Piet Spaak, Andrew P Beckerman, Frank Pennekamp, Ian S Pearse:
+"The Ecological Forecast Horizon, and examples of its uses and determinants"
+bioRxiv, http://dx.doi.org/10.1101/013441
+
 Altermatt F., Fronhofer E. A., Garnier A., Giometto A., Hammes F., Klecka J., Legrand D., 
 Mächler E., Massie T. M., Plebani M., Pennekamp F., Pontarp M., Schtickzelle N., 
 Thuillier V. & Petchey O. L.: 
@@ -27,7 +34,7 @@ Methods in Ecology and Evolution.
 
 Pennekamp, Frank, Nicolas Schtickzelle, and Owen L. Petchey. 2014. 
 “Bemovi, Software for Extracting BEhaviour and MOrphology from VIdeos.” 
-bioRxiv, November. doi:10.1101/011072.
+bioRxiv, http://dx.doi.org/10.1101/011072
     
 #### 2014
 
@@ -55,7 +62,7 @@ Methods in Ecology and Evolution 4 (5): 483–92. doi:10.1111/2041-210X.12036.
 
 ### <a name="thesis"></a>dissertation
 
-Pennekamp, Frank. 2014. “Swimming with Ciliates : Dispersal and Movement Ecology of Tetrahymena Thermophila.” 
+Pennekamp, Frank. 2014. “Swimming with ciliates: dispersal and movement ecology of **Tetrahymena thermophila**.” 
 Dissertation, Louvain-la-Neuve, Belgium: Université catholique de Louvain. 
 http://dial.academielouvain.be/handle/boreal:139383?site_name=UCL.
 
