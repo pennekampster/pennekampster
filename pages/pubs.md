@@ -18,17 +18,18 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 ### <a name="articles"></a>journal articles
 
 #### in press & preprints
-Altermatt F., Fronhofer E. A., Garnier A., Giometto A., Hammes F., Klecka J., Legrand D., 
-Mächler E., Massie T. M., Plebani M., Pennekamp F., Pontarp M., Schtickzelle N., 
-Thuillier V. & Petchey O. L.: 
-"Big answers from small worlds: a user's guide for protist microcosms as a model system 
-in ecology and evolution." 
-Methods in Ecology and Evolution.
-
 Pennekamp, Frank, Nicolas Schtickzelle, and Owen L. Petchey. 2014. 
 “Bemovi, Software for Extracting BEhaviour and MOrphology from VIdeos.” 
 bioRxiv, November. doi:10.1101/011072.
-    
+
+#### 2015
+
+Altermatt, Florian, Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, 
+Delphine Legrand, et al. 2015. “Big Answers from Small Worlds:     
+A User’s Guide for Protist Microcosms as a Model System in Ecology and Evolution.”     
+Methods in Ecology and Evolution 6 (2): 218–31. doi:10.1111/2041-210X.12312.
+
+
 #### 2014
 
 Pennekamp, Frank, Patrícia Garcia-Pereira, and Thomas Schmitt. 2014. 
