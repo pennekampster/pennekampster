@@ -23,7 +23,7 @@ Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja 
 Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, 
 Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse    
 "The Ecological Forecast Horizon, and examples of its uses and determinants"    
-bioRxiv, http://dx.doi.org/10.1101/013441
+Ecology Letters, _in press_ (preprint available at [bioRxiv](http://dx.doi.org/10.1101/013441))
 
 **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2014.     
 “Bemovi, Software for Extracting BEhaviour and MOrphology from VIdeos.”     
