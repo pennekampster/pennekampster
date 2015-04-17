@@ -27,7 +27,8 @@ Ecology Letters, _in press_ (preprint available at [bioRxiv](http://dx.doi.org/1
 
 **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2014.     
 “Bemovi, Software for Extracting BEhaviour and MOrphology from VIdeos.”     
-bioRxiv, http://dx.doi.org/10.1101/011072
+Ecology and Evolution, _accepted_    
+(preprint available at [bioRxiv](http://dx.doi.org/10.1101/011072))
 
 #### 2015
 
