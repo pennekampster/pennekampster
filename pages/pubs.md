@@ -7,62 +7,59 @@ description: Frank Pennekamp's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#Peer-reviewed">Peer-reviewed</a></li>
+            <li><a href="#others">Other publications</a></li>
         </ul>
     </div>
 </div>
 
 For citations, please refer to my [google scholar](http://scholar.google.de/citations?user=yRx8FTsAAAAJ&hl=de) profile.    
 
-### <a name="articles"></a>journal articles
+### <a name="Peer-reviewed"></a>Peer-reviewed publications
 
 #### in press & preprints   
     
-Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, 
-Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, 
-Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse    
-"The Ecological Forecast Horizon, and examples of its uses and determinants"    
-Ecology Letters, _in press_ (preprint available at [bioRxiv](http://dx.doi.org/10.1101/013441))
-
 **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2014.     
-“Bemovi, Software for Extracting BEhaviour and MOrphology from VIdeos.”     
+“BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”     
 Ecology and Evolution, _accepted_    
 (preprint available at [bioRxiv](http://dx.doi.org/10.1101/011072))
 
 #### 2015
 
-Altermatt, Florian, Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, 
-Delphine Legrand, et al. 2015. “Big Answers from Small Worlds:     
-A User’s Guide for Protist Microcosms as a Model System in Ecology and Evolution.”     
+Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse    
+"The ecological forecast horizon, and examples of its uses and determinants"    
+Ecology Letters, DOI: 10.1111/ele.12443, (preprint available at [bioRxiv](http://dx.doi.org/10.1101/013441))
+
+Altermatt, Florian, Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, Delphine Legrand, et al. 2015. 
+“Big answers from small worlds: a user’s guide for protist microcosms as a model system in ecology and evolution.”     
 Methods in Ecology and Evolution 6 (2): 218–31. doi:10.1111/2041-210X.12312.
 
 
 #### 2014
 
 **Pennekamp, Frank**, Patrícia Garcia-Pereira, and Thomas Schmitt. 2014.     
-“Habitat Requirements and Dispersal Ability of the Spanish Fritillary (Euphydryas Desfontainii) in Southern Portugal: 
-Evidence-Based Conservation Suggestions for an Endangered Taxon.”     
+“Habitat requirements and dispersal ability of the Spanish fritillary (_Euphydryas desfontainii_) in Southern Portugal: evidence-based conservation suggestions for an endangered taxon.”     
 Journal of Insect Conservation 18 (3): 497–508. doi:10.1007/s10841-014-9655-3.
 
 **Pennekamp, Frank**, Katherine A. Mitchell, Alexis Chaine, and Nicolas Schtickzelle. 2014.     
-“Dispersal Propensity in Tetrahymena Thermophila Ciliates—a Reaction Norm Perspective.”     
+“Dispersal propensity in _Tetrahymena thermophila_ ciliates — a reaction norm perspective.”     
 Evolution 68 (8): 2319–30. doi:10.1111/evo.12428.   
 
     
 #### 2013
 
 **Pennekamp, Frank**, Eva Monteiro, and Thomas Schmitt. 2013.     
-“The Larval Ecology of the Butterfly Euphydryas Desfontainii (Lepidoptera: Nymphalidae) in SW-Portugal:     
-Food Plant Quantity and Quality as Main Predictors of Habitat Quality.”     
+“The larval ecology of the butterfly _Euphydryas desfontainii_ (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality.”     
 Journal of Insect Conservation 17 (1): 195–206. doi:10.1007/s10841-012-9497-9.   
 
 **Pennekamp, Frank**, and Nicolas Schtickzelle. 2013. 
-“Implementing Image Analysis in Laboratory-Based Experimental Systems for Ecology and Evolution: A Hands-on Guide.”    
+“Implementing image analysis in laboratory-based experimental systems for ecology and evolution: a hands-on guide.”    
 Methods in Ecology and Evolution 4 (5): 483–92. doi:10.1111/2041-210X.12036.    
 
 
-### <a name="thesis"></a>dissertation
+### <a name="others"></a>Other publications
+
+Eva Monteiro, Patrícia Garcia-Pereira, **Frank Pennekamp**, Albano Soares, Sandra Antunes. 2014. "Rede das Estações da Biodiversidade: balanço e futuro", Ecologi@, 7: 27-33.
 
 **Pennekamp, Frank** 2014. “Swimming with ciliates: dispersal and movement ecology of *Tetrahymena thermophila*.”     
 Dissertation, Louvain-la-Neuve, Belgium: Université catholique de Louvain.     

@@ -6,6 +6,9 @@ description: Frank Pennekamp's talks
 
 ### <a name="talks"></a>Oral communications
 
+#### 2015
+Application of automated video analysis in ecology, illustrated with examples from experimental microcosms, Invited seminar for Microbial Ecology and Evolution workshop, Beijing, China
+
 #### 2014
 Scaling of interaction strength across a temperature gradient in competitive microbial communities     
 Joint BES & SFE annual meeting, Lille, France
