@@ -19,12 +19,12 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
     
-**Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2014.     
-“BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”     
-Ecology and Evolution, _accepted_    
-(preprint available at [bioRxiv](http://dx.doi.org/10.1101/011072))
-
 #### 2015
+
+**Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2015.         
+“BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”         
+Ecology and Evolution, Volume 5, Issue 13, pages 2584–2595    
+(open access article available at [Ecology & Evolution](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1529/abstract)
 
 Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse    
 "The ecological forecast horizon, and examples of its uses and determinants"    
