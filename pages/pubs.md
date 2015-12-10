@@ -18,7 +18,11 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 ### <a name="Peer-reviewed"></a>Peer-reviewed publications
 
 #### in press & preprints   
-    
+
+Ali Soleymani, *Frank Pennekamp*, Owen L. Petchey, Robert Weibel.
+"Developing and integrating advanced movement features improves automated classification of ciliate species"
+PLoS ONE, accepted
+
 #### 2015
 
 **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2015.         

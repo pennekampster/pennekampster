@@ -7,7 +7,11 @@ description: Frank Pennekamp's talks
 ### <a name="talks"></a>Oral communications
 
 #### 2015
-Application of automated video analysis in ecology, illustrated with examples from experimental microcosms, Invited seminar for Microbial Ecology and Evolution workshop, Beijing, China
+Inter- and intra-individual variation matter for predicting dispersal of Tetrahymena ciliates     
+45th Annual meeting of the Ecological Society of Germany, Switzerland and Austria, Göttingen, Germany
+
+Application of automated video analysis in ecology, illustrated with examples from experimental microcosms     
+Invited seminar for Microbial Ecology and Evolution workshop, Beijing, China
 
 #### 2014
 Scaling of interaction strength across a temperature gradient in competitive microbial communities     
