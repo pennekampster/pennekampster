@@ -24,10 +24,10 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 #### 2015
 
 Ali Soleymani, **Frank Pennekamp**, Owen L. Petchey, Robert Weibel. "Developing and integrating advanced movement features improves automated classification of ciliate species"
-PLoS ONE 10(12): e0145345. doi:10.1371/journal.pone.0145345 (open access article available at [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145345)
+[PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145345) 10(12): e0145345. doi:10.1371/journal.pone.0145345
 
 **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. “BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”         
-Ecology and Evolution, Volume 5, Issue 13, pages 2584–2595 (open access article available at [Ecology & Evolution](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1529/abstract)
+[Ecology & Evolution](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1529/abstract), Volume 5, Issue 13, pages 2584–2595
 
 Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse. 
 "The ecological forecast horizon, and examples of its uses and determinants" Ecology Letters, DOI: 10.1111/ele.12443, (preprint available at [bioRxiv](http://dx.doi.org/10.1101/013441))
