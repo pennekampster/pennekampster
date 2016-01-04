@@ -19,11 +19,12 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
 
+#### 2015
+
 Ali Soleymani, **Frank Pennekamp**, Owen L. Petchey, Robert Weibel.
 "Developing and integrating advanced movement features improves automated classification of ciliate species"
-PLoS ONE, accepted
-
-#### 2015
+PLoS ONE 10(12): e0145345. doi:10.1371/journal.pone.0145345
+(open access article available at [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145345)
 
 **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. 2015.         
 “BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”         
