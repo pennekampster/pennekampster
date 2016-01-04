@@ -36,23 +36,19 @@ Methods in Ecology and Evolution 6 (2): 218–31. doi:10.1111/2041-210X.12312.
 
 #### 2014
 
-**Pennekamp, Frank**, Patrícia Garcia-Pereira, and Thomas Schmitt. 
-“Habitat requirements and dispersal ability of the Spanish fritillary (_Euphydryas desfontainii_) in Southern Portugal: evidence-based conservation suggestions for an endangered taxon.” 
+**Pennekamp, Frank**, Patrícia Garcia-Pereira, and Thomas Schmitt. “Habitat requirements and dispersal ability of the Spanish fritillary (_Euphydryas desfontainii_) in Southern Portugal: evidence-based conservation suggestions for an endangered taxon.” 
 Journal of Insect Conservation 18 (3): 497–508. doi:10.1007/s10841-014-9655-3.
 
-**Pennekamp, Frank**, Katherine A. Mitchell, Alexis Chaine, and Nicolas Schtickzelle. 
-“Dispersal propensity in _Tetrahymena thermophila_ ciliates — a reaction norm perspective.” 
+**Pennekamp, Frank**, Katherine A. Mitchell, Alexis Chaine, and Nicolas Schtickzelle. “Dispersal propensity in _Tetrahymena thermophila_ ciliates — a reaction norm perspective.” 
 Evolution 68 (8): 2319–30. doi:10.1111/evo.12428.   
 
     
 #### 2013
 
-**Pennekamp, Frank**, Eva Monteiro, and Thomas Schmitt. 
-“The larval ecology of the butterfly _Euphydryas desfontainii_ (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality.” 
+**Pennekamp, Frank**, Eva Monteiro, and Thomas Schmitt. “The larval ecology of the butterfly _Euphydryas desfontainii_ (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality.” 
 Journal of Insect Conservation 17 (1): 195–206. doi:10.1007/s10841-012-9497-9.   
 
-**Pennekamp, Frank**, and Nicolas Schtickzelle. 
-“Implementing image analysis in laboratory-based experimental systems for ecology and evolution: a hands-on guide.”
+**Pennekamp, Frank**, and Nicolas Schtickzelle. “Implementing image analysis in laboratory-based experimental systems for ecology and evolution: a hands-on guide.”
 Methods in Ecology and Evolution 4 (5): 483–92. doi:10.1111/2041-210X.12036.    
 
 
