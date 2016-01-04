@@ -32,7 +32,7 @@ Ali Soleymani, **Frank Pennekamp**, Owen L. Petchey, Robert Weibel. "Developing 
 Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse. 
 "The ecological forecast horizon, and examples of its uses and determinants" Ecology Letters, DOI: 10.1111/ele.12443, (preprint available at [bioRxiv](http://dx.doi.org/10.1101/013441))
 
-Altermatt, Florian, Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, Delphine Legrand, et al. “Big answers from small worlds: a user’s guide for protist microcosms as a model system in ecology and evolution.”
+Florian Altermatt , Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, Delphine Legrand, Elvira Mächler, Thomas M. Massie, **Frank Pennekamp**, Marco Plebani, Mikael Pontarp, Nicolas Schtickzelle, Virginie Thuillier, Owen L. Petchey. “Big answers from small worlds: a user’s guide for protist microcosms as a model system in ecology and evolution.”
 Methods in Ecology and Evolution 6 (2): 218–31. doi:10.1111/2041-210X.12312.
 
 
