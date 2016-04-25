@@ -6,6 +6,9 @@ description: Frank Pennekamp's talks
 
 ### <a name="talks"></a>Oral communications
 
+#### 2016
+How to make ecology more predictive?, Earth & Life Institute, Université catholique de Louvain, Louvain-la-Neuve, Belgium
+
 #### 2015
 Inter- and intra-individual variation matter for predicting dispersal of Tetrahymena ciliates     
 45th Annual meeting of the Ecological Society of Germany, Switzerland and Austria, Göttingen, Germany
