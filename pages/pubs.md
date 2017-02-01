@@ -19,7 +19,14 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
 
---
+Ali Soleymani, **Frank Pennekamp**, Somayeh Dodge, Robert Weibel (_in press_) "Characterizing change
+points and continuous transitions in movement behaviors using wavelet decomposition", Methods in Ecology and Evolution
+
+**Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (_in press_) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?" Ecological Complexity
+
+#### 2016
+
+Petchey, O., Plebani, M. & Pennekamp, F. (2016) [Re] "Chaos in a long-term experiment with a plankton community." [ReScience](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf), 2.
 
 #### 2015
 

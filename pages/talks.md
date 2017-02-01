@@ -41,6 +41,12 @@ Population and larval ecology of _Euphydryas desfontainii_ in South-Western Port
 
 ### <a name="poster"></a>Poster presentations
 
+#### 2016
+
+Predicting effects of temperature on species interactions and community dynamics, URPP Global Change and Biodiversity conference, Monte Verità, Asocona, Switzerland
+
+Predicting effects of temperature on species interactions and community dynamics, Gordon Research Conference "Unifying Ecology Across Scales", University of New England, Biddefort, USA
+
 #### 2013
 Automated video analysis and machine learning for simultaneous species identification, abundance and trait measurements of aquatic microbes    
 11th INTECOL Congress, London, UK
