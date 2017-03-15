@@ -21,6 +21,7 @@ description: Frank Pennekamp is a postdoctoral fellow in the Predictive ecology 
             Email: <code>frank.pennekamp[at]ieu.uzh.ch</code> <br/>
             Phone: +41 (0)44 635 47 76     <br/>
             Twitter: @pennekampster<br/>
+            Orcid ID: 0000-0003-0679-1045<br/>
             </div>
         </div>
 
