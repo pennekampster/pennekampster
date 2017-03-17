@@ -5,7 +5,7 @@ description: Frank Pennekamp is a postdoctoral fellow in the Predictive ecology 
 ---
 
 <a href="../assets/pics/Frank_small.png">
-<img src="../assets/pics/Frank_small.png"
+<img src="../assets/pics/Frank_small.png" width="50%" height="50%"
 title="Frank Pennekamp" alt="Frank Pennekamp"/></a>
 
 I am an (evolutionary) ecologist broadly interested in population and community dynamics, with an emphasis
