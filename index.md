@@ -4,11 +4,10 @@ title: About
 description: Frank Pennekamp is a postdoctoral fellow in the Predictive ecology group, Institute of Evolutionary Biology and Environmental Sciences, University of Zurich
 ---
 
-<div class="container">
-<h4>contact</h4>
+<a href="../assets/pics/Frank_small.png">
+<img src="../assets/pics/Frank_small.png"
+title="Frank Pennekamp" alt="Frank Pennekamp"/></a>
 
-    <div class="row-fluid">
-        <div class="span5">
 I am an (evolutionary) ecologist broadly interested in population and community dynamics, with an emphasis
 on the role of dispersal and movement ecology for higher levels of biological organization. 
 
@@ -28,15 +27,5 @@ Please checkout the [software](http://pennekampster.github.io/pennekampster/page
 
 Please get in touch if you are interested in my research and potential collaboration!
 
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/Frank_small.png">
-            <img src="../assets/pics/Frank_small.png"
-                  title="Frank Pennekamp" alt="Frank Pennekamp"/></a>
-        </div>
-    </div>
-</div>
 
 
