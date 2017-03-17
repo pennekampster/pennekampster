@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: test
 description: Frank Pennekamp is a postdoctoral fellow in the Predictive ecology group, Institute of Evolutionary Biology and Environmental Sciences, University of Zurich
 ---
 
