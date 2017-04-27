@@ -19,6 +19,10 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
 
+Frank Pennekamp, Jason I. Griffiths, Emanuel A. Fronhofer, Aurélie Garnier, Mathew Seymour, Florian Altermatt
+Owen L. Petchey (_in press_) "Dynamic species classification of microorganisms across time, abiotic and biotic environments - 
+a sliding window approach", PLoS ONE
+
 Ali Soleymani, **Frank Pennekamp**, Somayeh Dodge, Robert Weibel (_in press_) "Characterizing change
 points and continuous transitions in movement behaviors using wavelet decomposition", Methods in Ecology and Evolution
 
