@@ -29,42 +29,42 @@ points and continuous transitions in movement behaviors using wavelet decomposit
 
 #### 2017
 
-10. **Frank Pennekamp**, Jason I. Griffiths, Emanuel A. Fronhofer, Aurélie Garnier, Mathew Seymour, Florian Altermatt, Owen L. Petchey (2017) Dynamic species classification of microorganisms across time, abiotic and biotic environments—A sliding window approach. PLoS ONE 12(5): e0176682. https://doi.org/10.1371/journal.pone.0176682
+10\. **Frank Pennekamp**, Jason I. Griffiths, Emanuel A. Fronhofer, Aurélie Garnier, Mathew Seymour, Florian Altermatt, Owen L. Petchey (2017) Dynamic species classification of microorganisms across time, abiotic and biotic environments—A sliding window approach. PLoS ONE 12(5): e0176682. https://doi.org/10.1371/journal.pone.0176682
 
 #### 2016
 
-9. Petchey, O., Plebani, M. & Pennekamp, F. (2016) [Re] "Chaos in a long-term experiment with a plankton community." [ReScience](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf), 2.
+9\. Petchey, O., Plebani, M. & Pennekamp, F. (2016) [Re] "Chaos in a long-term experiment with a plankton community." [ReScience](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf), 2.
 
 #### 2015
 
-8. Ali Soleymani, **Frank Pennekamp**, Owen L. Petchey, Robert Weibel. "Developing and integrating advanced movement features improves automated classification of ciliate species"
+8\. Ali Soleymani, **Frank Pennekamp**, Owen L. Petchey, Robert Weibel. "Developing and integrating advanced movement features improves automated classification of ciliate species"
 [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145345) 10(12): e0145345. doi:10.1371/journal.pone.0145345
 
-7. **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. “BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”         
+7\. **Pennekamp, Frank**, Nicolas Schtickzelle, and Owen L. Petchey. “BEMOVI, software for extracting BEhaviour and MOrphology from VIdeos.”         
 [Ecology & Evolution](http://onlinelibrary.wiley.com/doi/10.1002/ece3.1529/abstract), Volume 5, Issue 13, pages 2584–2595
 
-6. Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse. 
+6\. Owen L Petchey, Mikael Pontarp, Thomas M Massie, Sonia Kéfi, Arpat Ozgul, Maja Weilenmann, Gian Marco Palamara, Florian Altermatt, Blake J Matthews, Jonathan M Levine, Dylan Z Childs, Brian J McGill, Michael E Schaepman, Bernhard Schmid, Piet Spaak, Andrew P Beckerman, **Frank Pennekamp**, Ian S Pearse. 
 "The ecological forecast horizon, and examples of its uses and determinants" Ecology Letters, DOI: 10.1111/ele.12443, (preprint available at [bioRxiv](http://dx.doi.org/10.1101/013441))
 
-5. Florian Altermatt , Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, Delphine Legrand, Elvira Mächler, Thomas M. Massie, **Frank Pennekamp**, Marco Plebani, Mikael Pontarp, Nicolas Schtickzelle, Virginie Thuillier, Owen L. Petchey. “Big answers from small worlds: a user’s guide for protist microcosms as a model system in ecology and evolution.”
+5\. Florian Altermatt , Emanuel A. Fronhofer, Aurélie Garnier, Andrea Giometto, Frederik Hammes, Jan Klecka, Delphine Legrand, Elvira Mächler, Thomas M. Massie, **Frank Pennekamp**, Marco Plebani, Mikael Pontarp, Nicolas Schtickzelle, Virginie Thuillier, Owen L. Petchey. “Big answers from small worlds: a user’s guide for protist microcosms as a model system in ecology and evolution.”
 Methods in Ecology and Evolution 6 (2): 218–31. doi:10.1111/2041-210X.12312.
 
 
 #### 2014
 
-4. **Pennekamp, Frank**, Patrícia Garcia-Pereira, and Thomas Schmitt. “Habitat requirements and dispersal ability of the Spanish fritillary (_Euphydryas desfontainii_) in Southern Portugal: evidence-based conservation suggestions for an endangered taxon.” 
+4\. **Pennekamp, Frank**, Patrícia Garcia-Pereira, and Thomas Schmitt. “Habitat requirements and dispersal ability of the Spanish fritillary (_Euphydryas desfontainii_) in Southern Portugal: evidence-based conservation suggestions for an endangered taxon.” 
 Journal of Insect Conservation 18 (3): 497–508. doi:10.1007/s10841-014-9655-3.
 
-3. **Pennekamp, Frank**, Katherine A. Mitchell, Alexis Chaine, and Nicolas Schtickzelle. “Dispersal propensity in _Tetrahymena thermophila_ ciliates — a reaction norm perspective.” 
+3\. **Pennekamp, Frank**, Katherine A. Mitchell, Alexis Chaine, and Nicolas Schtickzelle. “Dispersal propensity in _Tetrahymena thermophila_ ciliates — a reaction norm perspective.” 
 Evolution 68 (8): 2319–30. doi:10.1111/evo.12428.   
 
     
 #### 2013
 
-2. **Pennekamp, Frank**, Eva Monteiro, and Thomas Schmitt. “The larval ecology of the butterfly _Euphydryas desfontainii_ (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality.” 
+2\. **Pennekamp, Frank**, Eva Monteiro, and Thomas Schmitt. “The larval ecology of the butterfly _Euphydryas desfontainii_ (Lepidoptera: Nymphalidae) in SW-Portugal: food plant quantity and quality as main predictors of habitat quality.” 
 Journal of Insect Conservation 17 (1): 195–206. doi:10.1007/s10841-012-9497-9.   
 
-1. **Pennekamp, Frank**, and Nicolas Schtickzelle. “Implementing image analysis in laboratory-based experimental systems for ecology and evolution: a hands-on guide.”
+1\. **Pennekamp, Frank**, and Nicolas Schtickzelle. “Implementing image analysis in laboratory-based experimental systems for ecology and evolution: a hands-on guide.”
 Methods in Ecology and Evolution 4 (5): 483–92. doi:10.1111/2041-210X.12036.    
 
 
