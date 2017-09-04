@@ -19,6 +19,9 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
 
+Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_)    
+"Linking intra-specific trait variation to community abundance dynamics improves ecological predictability by revealing a growth-defence trade-off.", Functional Ecology
+
 Aurélie Garnier, **Frank Pennekamp**, Mélissa Lemoine, Owen L. Petchey (_in press_) 
 "Temporal scale dependent interactions between multiple environmental stressors in microcosm ecosystems", Global Change Biology
 
