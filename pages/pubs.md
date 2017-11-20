@@ -19,20 +19,25 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
 
-Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_)    
-"Linking intra-specific trait variation to community abundance dynamics improves ecological predictability by revealing a growth-defence trade-off.", Functional Ecology
+Emanuel A. Fronhofer, Delphine Legrand, Florian Altermatt, Armelle Ansart, Simon Blanchet, Dries Bonte, Alexis Chaine, Maxime Dahirel, Frederik De Laender, Jonathan De Raedt, Lucie di Gesu, Staffan Jacob, Oliver Kaltz, Estelle Laurent, Chelsea J. Little, Luc Madec, Florent Manzi, Stefano Masier, Felix Pellerin, **Frank Pennekamp**, Nicolas Schtickzelle, Lieven Therry, Alexandre Vong, Laurane Winandy, Julien Cote (2017). "Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment." 
+bioRxiv, 213256. doi:10.1101/213256
 
-Aurélie Garnier, **Frank Pennekamp**, Mélissa Lemoine, Owen L. Petchey (_in press_) 
-"Temporal scale dependent interactions between multiple environmental stressors in microcosm ecosystems", Global Change Biology
+Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_) "Linking intra-specific trait variation to community abundance dynamics improves ecological predictability by revealing a growth-defence trade-off.    
+Functional Ecology
 
-Ali Soleymani, **Frank Pennekamp**, Somayeh Dodge, Robert Weibel (_in press_) "Characterizing change
-points and continuous transitions in movement behaviors using wavelet decomposition", Methods in Ecology and Evolution
-
-**Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (_in press_) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?" Ecological Complexity
+**Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (_in press_) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?"     
+Ecological Complexity
 
 #### 2017
 
-10\. **Frank Pennekamp**, Jason I. Griffiths, Emanuel A. Fronhofer, Aurélie Garnier, Mathew Seymour, Florian Altermatt, Owen L. Petchey (2017) Dynamic species classification of microorganisms across time, abiotic and biotic environments—A sliding window approach. PLoS ONE 12(5): e0176682. https://doi.org/10.1371/journal.pone.0176682
+12\. Aurélie Garnier, **Frank Pennekamp**, Mélissa Lemoine, Owen L. Petchey (2017). "Temporal scale dependent interactions between multiple environmental disturbances in microcosm ecosystems".     
+Global Change Biology, 23(12), 5237–5248. doi:10.1111/gcb.13786
+
+11\. Ali Soleymani, **Frank Pennekamp**, Somayeh Dodge, Robert Weibel (2017). "Characterizing change points and continuous transitions in movement behaviours using wavelet decomposition".     
+Methods in Ecology and Evolution, 8(9), 1113–1123. doi:10.1111/2041-210X.12755
+
+10\. **Frank Pennekamp**, Jason I. Griffiths, Emanuel A. Fronhofer, Aurélie Garnier, Mathew Seymour, Florian Altermatt, Owen L. Petchey (2017) "Dynamic species classification of microorganisms across time, abiotic and biotic environments—A sliding window approach."     
+PLoS ONE 12(5): e0176682. https://doi.org/10.1371/journal.pone.0176682
 
 #### 2016
 
