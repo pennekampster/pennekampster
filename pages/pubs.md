@@ -19,14 +19,11 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 #### in press & preprints   
 
-Emanuel A. Fronhofer, Delphine Legrand, Florian Altermatt, Armelle Ansart, Simon Blanchet, Dries Bonte, Alexis Chaine, Maxime Dahirel, Frederik De Laender, Jonathan De Raedt, Lucie di Gesu, Staffan Jacob, Oliver Kaltz, Estelle Laurent, Chelsea J. Little, Luc Madec, Florent Manzi, Stefano Masier, Felix Pellerin, **Frank Pennekamp**, Nicolas Schtickzelle, Lieven Therry, Alexandre Vong, Laurane Winandy, Julien Cote (2017). "Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment." 
-bioRxiv, 213256. doi:10.1101/213256
+Emanuel A. Fronhofer, Delphine Legrand, Florian Altermatt, Armelle Ansart, Simon Blanchet, Dries Bonte, Alexis Chaine, Maxime Dahirel, Frederik De Laender, Jonathan De Raedt, Lucie di Gesu, Staffan Jacob, Oliver Kaltz, Estelle Laurent, Chelsea J. Little, Luc Madec, Florent Manzi, Stefano Masier, Felix Pellerin, **Frank Pennekamp**, Nicolas Schtickzelle, Lieven Therry, Alexandre Vong, Laurane Winandy, Julien Cote (2017). "Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment.", bioRxiv, 213256. doi:10.1101/213256
 
-Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_) "Linking intra-specific trait variation to community abundance dynamics improves ecological predictability by revealing a growth-defence trade-off.    
-Functional Ecology
+Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_) "Linking intra-specific trait variation to community abundance dynamics improves ecological predictability by revealing a growth-defence trade-off., Functional Ecology
 
-**Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (_in press_) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?"     
-Ecological Complexity
+**Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (_in press_) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?", Ecological Complexity
 
 #### 2017
 
