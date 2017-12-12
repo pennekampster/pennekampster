@@ -25,7 +25,7 @@ Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_
 
 #### 2017
 
-13.\ **Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (2017) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?", Ecological Complexity 32: 156–167.    
+13\. **Pennekamp, F.**, Adamson, M.W., Petchey, O.L., Poggiale, J.-C., Aguiar, M., Kooi, B.W., Botkin, D.B. & DeAngelis, D.L. (2017) "The practice of prediction: What can ecologists learn from applied, ecology-related fields?", Ecological Complexity 32: 156–167.    
 
 12\. Aurélie Garnier, **Frank Pennekamp**, Mélissa Lemoine, Owen L. Petchey (2017). "Temporal scale dependent interactions between multiple environmental disturbances in microcosm ecosystems".     
 Global Change Biology, 23(12), 5237–5248. doi:10.1111/gcb.13786
