@@ -7,7 +7,7 @@ description: Frank Pennekamp's talks
 ### <a name="talks"></a>Oral communications
 
 #### 2017
-Warming decreases stability and productivity via changing species interactions
+Warming decreases stability and productivity via changing species interactions     
 Ecological Society of America Annual Meeting, Portland, USA
 
 #### 2016
