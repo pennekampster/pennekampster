@@ -21,7 +21,10 @@ For citations, please refer to my [google scholar](http://scholar.google.de/cita
 
 Emanuel A. Fronhofer, Delphine Legrand, Florian Altermatt, Armelle Ansart, Simon Blanchet, Dries Bonte, Alexis Chaine, Maxime Dahirel, Frederik De Laender, Jonathan De Raedt, Lucie di Gesu, Staffan Jacob, Oliver Kaltz, Estelle Laurent, Chelsea J. Little, Luc Madec, Florent Manzi, Stefano Masier, Felix Pellerin, **Frank Pennekamp**, Nicolas Schtickzelle, Lieven Therry, Alexandre Vong, Laurane Winandy, Julien Cote (2017). "Bottom-up and top-down control of dispersal across major organismal groups: a coordinated distributed experiment.", bioRxiv, 213256. doi:10.1101/213256
 
-Jason Griffiths, Owen L. Petchey, **Frank Pennekamp** & Dylan Childs (_in press_) "Linking intra-specific trait variation to community abundance dynamics improves ecological predictability by revealing a growth-defence trade-off., Functional Ecology
+
+#### 2018
+
+14\. Griffiths, J.I., Petchey, O.L., **Pennekamp, F.**, Childs, D.Z., 2018. Linking intraspecific trait variation to community abundance dynamics improves ecological predictability by revealing a growth–defence trade-off. Funct Ecol 32, 496–508. https://doi.org/10.1111/1365-2435.12997     
 
 #### 2017
 
